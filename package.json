@@ -1,0 +1,21 @@
+{
+  "name": "purpule",
+  "displayName": "Purpule",
+  "description": "Purple and blue theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purpule",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purpule-color-theme.json"
+      }
+    ]
+  }
+}
